@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins COntinuous Deployment.....</h2>
+<h2>Hello World! Welcome to Jenkins Continuous Deployment.....</h2>
+<h3>This is complete integration and deployment.....</h3>
 </body>
 </html>
